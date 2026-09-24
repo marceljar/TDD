@@ -4,4 +4,4 @@ def add(a, b):
 
 def multiply(a, b):
     """multiply two numbers"""
-    return a * b
+    return a + b
